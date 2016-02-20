@@ -22,6 +22,11 @@ p{
 
 }
 
+.hello{
+	background-image: url(http://www.wardtechtalent.com/wp-content/uploads/2015/01/rain.jpg);
+	background-size: cover;
+}
+
 .section1{
 	border: 1px dashed black;
 	background-image: url(http://www.planwallpaper.com/static/images/518079-background-hd.jpg);
